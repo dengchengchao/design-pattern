@@ -17,6 +17,7 @@
         <module>builder-pattern</module>
         <module>Singleton</module>
         <module>strategy-pattern</module>
+        <module>observer-pattern</module>
     </modules>
 
     <dependencies>
