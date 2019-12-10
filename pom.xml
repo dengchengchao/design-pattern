@@ -19,6 +19,8 @@
         <module>strategy-pattern</module>
         <module>observer-pattern</module>
         <module>chain-of-responsibility</module>
+        <module>adapter-pattern</module>
+        <module>composite-pattern</module>
     </modules>
 
     <dependencies>
